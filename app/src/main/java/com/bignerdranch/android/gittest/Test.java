@@ -4,5 +4,5 @@ public class Test {
 
     // Hello git
 
-
+    // without global repository
 }
